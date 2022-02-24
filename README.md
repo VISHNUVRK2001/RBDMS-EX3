@@ -27,6 +27,7 @@ mysql>insert into users1(name,email,address,dob,isactive,regon,logon)values
 '2017-5-25,’m’);
 mysql>insert into users1(name,email,address,dob,isactive,regon,logon)values
 ('sam','sam1234@gmail.com','25 att colony cbe’,'1993-9-23',1,'2017-2-1','2017-2-25,’m’);
+
 (iii)Insert the values into friends1 table:
 mysql>insert into friends1(userid,friendname)values(101,’sanjay’);
 mysql>insert into friends1(userid,friendname)values(101,’mathan’);
